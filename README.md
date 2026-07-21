@@ -14,3 +14,9 @@ Urdu OCR is more difficult than English OCR because English is written left to r
 
 Urdu OCR can be used in apps like Google Lens to scan and extract text from Urdu poetry, making it easy to read, copy, or search the poetry digitally. Another example is scanning official documents like a Nikahnama (marriage certificate), which are usually written in Urdu, so OCR can help convert them into digital text for easy storage and record-keeping.
 
+## Dataset Images
+Due to GitHub file upload limitations, the full collected image dataset (133 images across 5 categories: newspaper, books, signboards, synthetic, other) is available here:
+[Dataset - Google Drive Link](https://drive.google.com/file/d/1ZDopi4fW9dhySwAqC2BVlIVo3eo-1FE2/view?usp=sharing)
+
+The `labels.csv` file with ground-truth text for all images is available in this repository.
+
