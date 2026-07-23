@@ -16,7 +16,7 @@ Urdu OCR can be used in apps like Google Lens to scan and extract text from Urdu
 
 ## Dataset Images
 Due to GitHub file upload limitations, the full collected image dataset (133 images across 5 categories: newspaper, books, signboards, synthetic, other) is available here:
-[Dataset - Google Drive Link](https://drive.google.com/file/d/1ZDopi4fW9dhySwAqC2BVlIVo3eo-1FE2/view?usp=sharing)
+[Dataset - Google Drive Link](https://drive.google.com/file/d/1_Tq2I7q33ndChQqyQR1VCMSOTNZ-sw9E/view?usp=sharing)
 
 The `labels.csv` file with ground-truth text for all images is available in this repository.
 
